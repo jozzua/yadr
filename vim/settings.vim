@@ -13,5 +13,3 @@ for fpath in split(globpath(vimsettings, '*.vim'), '\n')
 
   exe 'source' fpath
 endfor
-
-let g:wiki_root = '~/wiki'
