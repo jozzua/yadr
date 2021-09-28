@@ -10,6 +10,10 @@
 
 ## ELY's YADR customization
 
+Ely's customized version of YADR dotfiles.
+Note that Neocomplete was removed due to conflict with  VIM.
+As of : 2021_09_29
+
 #### sh -c "\`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh \`"
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
